@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "orgin"]
+	url = https://github.com/venkygvsp/Rock-Paper-Scissors.git
+	fetch = +refs/heads/*:refs/remotes/orgin/*
